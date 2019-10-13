@@ -1,6 +1,6 @@
-#Mark Annandale Lab 6
+# Mark Annandale Lab 6
 
-##.map function and arrow functions
+## .map function and arrow functions
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions]
 
